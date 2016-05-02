@@ -1,0 +1,31 @@
+{
+  "name": "git-php-admin",
+  "description": "Simple HTML UI written in PHP for executing GIT commands from web page",
+  "keywords": [
+    "git",
+    "php",
+    "admin",
+    "administration",
+    "version",
+    "html"
+  ],
+  "authors": [
+    "Jan Drda <jdrda@outlook.com> (https://www.ithonza.com)"
+  ],
+  "homepage": "https://github.com/jdrda/git-php-admin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jdrda/git-php-admin.git"
+  },
+  "ignore": [
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "bootstrap": "latest",
+    "bootstrap": "~3.3",
+    "font-awesome": "latest"
+  },
+  "devDependencies": {},
+  "private": false
+}
