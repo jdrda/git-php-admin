@@ -200,7 +200,7 @@ if(isset($_REQUEST['pull'])){
                         </div>
                     </form>
                 </div>
-                <!-- /Push -->
+                <!-- /Pull -->
                 
             </div>
             <!-- /Controlls -->
