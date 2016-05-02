@@ -191,7 +191,7 @@ if(isset($_REQUEST['pull'])){
                             </div>
                             <div class="panel-body">
                                 <div class="form-group">
-                                    <button type="submit" name="push" class="btn btn-danger form-control">Pull</button>
+                                    <button type="submit" name="pull" class="btn btn-danger form-control">Pull</button>
                                 </div>
                             </div>
                             <div class="panel-footer">
