@@ -1,7 +1,7 @@
 {
     "name": "jan-drda/git-php-admin",
     "description": "Simple HTML UI written in PHP for executing GIT commands from web page",
-    "keywords": ["git", "php", "admin", "administration", "version", "html"],
+    "keywords": ["git", "php", "admin", "administration", "version", "html", "bootstrap"],
     "homepage": "https://github.com/jdrda/git-php-admin",
     "type": "library",
     "license": "MIT",
